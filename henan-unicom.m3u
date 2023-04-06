@@ -1,0 +1,187 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
+http://192.168.2.2:2022/rtp/225.1.4.73:1102
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
+http://192.168.2.2:2022/rtp/225.1.4.74:1103
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
+http://192.168.2.2:2022/rtp/225.1.4.158:1194
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4国际
+http://192.168.2.2:2022/rtp/225.1.5.30:1333
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
+http://192.168.2.2:2022/rtp/225.1.4.159:1195
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
+http://192.168.2.2:2022/rtp/225.1.4.160:1196
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7军事
+http://192.168.2.2:2022/rtp/225.1.4.76:1105
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
+http://192.168.2.2:2022/rtp/225.1.4.161:1197
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪录
+http://192.168.2.2:2022/rtp/225.1.4.77:1106
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
+http://192.168.2.2:2022/rtp/225.1.4.78:1107
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
+http://192.168.2.2:2022/rtp/225.1.4.215:1268
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
+http://192.168.2.2:2022/rtp/225.1.4.79:1108
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
+http://192.168.2.2:2022/rtp/225.1.4.113:1293
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
+http://192.168.2.2:2022/rtp/225.1.4.80:1109
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
+http://192.168.2.2:2022/rtp/225.1.4.216:1269
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克
+http://192.168.2.2:2022/rtp/225.1.5.46:1356
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农业
+http://192.168.2.2:2022/rtp/225.1.4.226:2506
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育
+http://192.168.2.2:2022/rtp/225.1.4.75:1104
+
+
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
+http://192.168.2.2:2022/rtp/225.1.4.98:1127
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
+http://192.168.2.2:2022/rtp/225.1.4.82:1111
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
+http://192.168.2.2:2022/rtp/225.1.4.83:1112
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
+http://192.168.2.2:2022/rtp/225.1.4.84:1113
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
+http://192.168.2.2:2022/rtp/225.1.4.81:1110
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
+http://192.168.2.2:2022/rtp/225.1.4.85:1114
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
+http://192.168.2.2:2022/rtp/225.1.4.87:1116
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
+http://192.168.2.2:2022/rtp/225.1.4.91:1120
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
+http://192.168.2.2:2022/rtp/225.1.4.167:1208
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
+http://192.168.2.2:2022/rtp/225.1.4.90:1119
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
+http://192.168.2.2:2022/rtp/225.1.4.166:1207
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
+http://192.168.2.2:2022/rtp/225.1.4.86:1115
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
+http://192.168.2.2:2022/rtp/225.1.4.89:1118
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
+http://192.168.2.2:2022/rtp/225.1.4.88:1117
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
+http://192.168.2.2:2022/rtp/225.1.4.157:1308
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+http://192.168.2.2:2022/rtp/225.1.4.39:1068
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
+http://192.168.2.2:2022/rtp/225.1.4.174:1309
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
+http://192.168.2.2:2022/rtp/225.1.4.31:1060
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
+http://192.168.2.2:2022/rtp/225.1.4.123:1304
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+http://192.168.2.2:2022/rtp/225.1.4.46:1075
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+http://192.168.2.2:2022/rtp/225.1.4.45:1074
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
+http://192.168.2.2:2022/rtp/225.1.4.44:1073
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
+http://192.168.2.2:2022/rtp/225.1.4.151:1306
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
+http://192.168.2.2:2022/rtp/225.1.4.38:1067
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+http://192.168.2.2:2022/rtp/225.1.4.152:1307
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
+http://192.168.2.2:2022/rtp/225.1.4.139:1305
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
+http://192.168.2.2:2022/rtp/225.1.4.228:1274
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
+http://192.168.2.2:2022/rtp/225.1.4.122:1302
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
+http://192.168.2.2:2022/rtp/225.1.4.42:1071
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
+http://192.168.2.2:2022/rtp/225.1.4.195:1310
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+http://192.168.2.2:2022/rtp/225.1.4.47:1076
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
+http://192.168.2.2:2022/rtp/225.1.4.97:1126
+
+
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="http://www.guojitv.com/epg/upfile/df7799ac-3505-486c-bbb0-c69c8cdc73f8.jpg" group-title="本地",河南都市
+http://192.168.2.2:2022/rtp/225.1.4.52:1081
+#EXTINF:-1 tvg-name="河南电视剧" tvg-logo="http://www.guojitv.com/epg/upfile/ca77d75f-3317-4b9d-9ee0-0a3651302bac.jpg" group-title="本地",河南电视剧
+http://192.168.2.2:2022/rtp/225.1.4.55:1084
+#EXTINF:-1 tvg-name="河南民生" tvg-logo="http://www.guojitv.com/epg/upfile/cdf21422-78d9-47e7-b2c5-ee53d1d2792d.jpg" group-title="本地",河南民生
+http://192.168.2.2:2022/rtp/225.1.4.53:1082
+#EXTINF:-1 tvg-name="河南法治" tvg-logo="http://www.guojitv.com/epg/upfile/cd9a0dfb-0b3d-49ad-9669-d68d95aef880.jpg" group-title="本地",河南法治
+http://192.168.2.2:2022/rtp/225.1.4.54:1083
+#EXTINF:-1 tvg-name="河南新闻" tvg-logo="http://www.guojitv.com/epg/upfile/8eb739a5-34e9-4cf4-8c33-94a20769dd00.jpg" group-title="本地",河南新闻
+http://192.168.2.2:2022/rtp/225.1.4.56:1085
+#EXTINF:-1 tvg-name="河南公共" tvg-logo="http://www.guojitv.com/epg/upfile/a65a67ff-6f53-4696-af8f-320bc308fbc4.jpg" group-title="本地",河南公共
+http://192.168.2.2:2022/rtp/225.1.4.58:1087
+#EXTINF:-1 tvg-name="河南梨园" group-title="本地",河南梨园
+http://192.168.2.2:2022/rtp/225.1.4.99:1128
+#EXTINF:-1 tvg-name="河南武术世界" group-title="本地",河南武术世界
+http://192.168.2.2:2022/rtp/225.1.4.101:1130
+#EXTINF:-1 tvg-name="河南文物宝库" group-title="本地",河南文物宝库
+http://192.168.2.2:2022/rtp/225.1.4.100:1129
+#EXTINF:-1 tvg-name="河南国际" group-title="本地",河南国际
+http://192.168.2.2:2022/rtp/225.1.4.102:1131
+#EXTINF:-1 tvg-name="河南农村" group-title="本地",河南农村
+http://192.168.2.2:2022/rtp/225.1.4.120:1149
+#EXTINF:-1 tvg-name="河南大象新闻" group-title="本地",河南大象新闻
+http://192.168.2.2:2022/rtp/225.1.5.45:1355
+#EXTINF:-1 tvg-name="河南现场直播" group-title="本地",河南现场直播
+http://192.168.2.2:2022/rtp/225.1.5.42:1352
+#EXTINF:-1 tvg-name="河南移动戏曲" group-title="本地",河南移动戏曲
+http://192.168.2.2:2022/rtp/225.1.4.206:1254
+#EXTINF:-1 tvg-name="河南睛彩中原" group-title="本地",河南睛彩中原
+http://192.168.2.2:2022/rtp/225.1.4.163:1203
+#EXTINF:-1 tvg-name="河南导视" group-title="本地",河南导视
+http://192.168.2.2:2022/rtp/225.1.4.194:1244
+#EXTINF:-1 tvg-name="河南4K" group-title="本地",河南4K
+http://192.168.2.2:2022/rtp/225.1.4.254:1300
+
+
+#EXTINF:-1 tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他",CHC高清电影
+http://192.168.2.2:2022/rtp/225.1.4.207:1260
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="其他",CHC家庭影院
+http://192.168.2.2:2022/rtp/225.1.4.209:1262
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="其他",CHC动作电影
+http://192.168.2.2:2022/rtp/225.1.4.208:1261
+#EXTINF:-1 tvg-name="经典电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="其他",经典电影
+http://192.168.2.2:2022/rtp/225.1.4.175:1233
+#EXTINF:-1 tvg-name="谍战剧场" group-title="其他",谍战剧场
+http://192.168.2.2:2022/rtp/225.1.4.185:1240
+#EXTINF:-1 tvg-name="相声小品" group-title="其他",相声小品
+http://192.168.2.2:2022/rtp/225.1.4.186:1235
+#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="其他",金鹰纪实
+http://192.168.2.2:2022/rtp/225.1.4.172:1711
+#EXTINF:-1 tvg-name="纪实人文" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="其他",纪实人文
+http://192.168.2.2:2022/rtp/225.1.4.170:1222
+#EXTINF:-1 tvg-name="中国教育1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="其他",中国教育1
+http://192.168.2.2:2022/rtp/225.1.4.173:1712
+#EXTINF:-1 tvg-name="中国教育2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="其他",中国教育2
+http://192.168.2.2:2022/rtp/225.1.4.165:1206
+#EXTINF:-1 tvg-name="中国教育4" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="其他",中国教育4
+http://192.168.2.2:2022/rtp/225.1.4.171:1710
+#EXTINF:-1,tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="其他",卡酷动画
+http://192.168.2.2:2022/rtp/225.1.4.48:1077
+#EXTINF:-1,tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="其他",金鹰卡通
+http://192.168.2.2:2022/rtp/225.1.4.49:1078
+#EXTINF:-1,tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="其他",嘉佳卡通
+http://192.168.2.2:2022/rtp/225.1.4.92:1121
+#EXTINF:-1,tvg-name="新动漫" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xindongman.pngpng" group-title="其他",新动漫
+http://192.168.2.2:2022/rtp/225.1.4.212:1265
+#EXTINF:-1 tvg-name="国学频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="其他",国学频道
+http://192.168.2.2:2022/rtp/225.1.4.196:1311
+#EXTINF:-1 tvg-name="音乐现场" group-title="其他",音乐现场
+http://192.168.2.2:2022/rtp/225.1.4.184:1224
+#EXTINF:-1 tvg-name="早教" group-title="其他",早教
+http://192.168.2.2:2022/rtp/225.1.4.179:1228
+#EXTINF:-1 tvg-name="地理" group-title="其他",地理
+http://192.168.2.2:2022/rtp/225.1.4.183:1232
+#EXTINF:-1 tvg-name="美妆" group-title="其他",美妆
+http://192.168.2.2:2022/rtp/225.1.4.182:1231
+#EXTINF:-1 tvg-name="军事" group-title="其他",军事
+http://192.168.2.2:2022/rtp/225.1.4.181:1230
+#EXTINF:-1 tvg-name="测试4K" group-title="其他",测试4K
+http://192.168.2.2:2022/rtp/225.1.4.162:1204
+
